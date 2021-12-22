@@ -5,7 +5,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ... Symbiote
 - 🌱 I’m currently learning ... Apache Kafka
 - 💬 Ask me about ... LIFE
-- 📫 How to reach me: ... (https://theprojectgroot.com)
+- 📫 How to reach me: ... https://theprojectgroot.com
 - 😄 Pronouns: ... dipshit
 - ⚡ Fun fact: ... I think I'm funny
 -->
