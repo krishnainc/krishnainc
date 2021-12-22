@@ -8,4 +8,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... https://theprojectgroot.com
 - 😄 Pronouns: ... dipshit
 - ⚡ Fun fact: ... I think I'm funny
--->
+
+![snake gif](https://github.com/krishnainc/krishnainc/blob/output/github-contribution-grid-snake.gif)
