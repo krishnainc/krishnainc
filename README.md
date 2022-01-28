@@ -15,10 +15,10 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/cryptosonic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cryptosonic" height="30" width="40" /></a>
-<a href="https://instagram.com/krishna.py" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="krishna.py" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/project groot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="project groot" height="30" width="40" /></a>
-<a href="/theprojectgroot.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="theprojectgroot.com" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/cryptosonic/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cryptosonic" height="30" width="40" /></a>
+<a href="https://www.instagram.com/krishna.py/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="krishna.py" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCMT-DWhvnyk9FreYIcG0wdA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="project groot" height="30" width="40" /></a>
+<a href="theprojectgroot.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="theprojectgroot.com" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
