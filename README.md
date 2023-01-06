@@ -26,5 +26,3 @@
 
 
 
-
-![snake gif](https://github.com/krishnainc/krishnainc/blob/output/github-contribution-grid-snake.gif)
