@@ -3,7 +3,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krishnainc" alt="krishnainc" /></a> </p>
 
-- 🔭 I’m currently working on **Symbiote**
+- 🔭 I’m currently working on **Cymbiote**
 
 - 🌱 I’m currently learning **Amazon Aurora PostgreSQL**
 
