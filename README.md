@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Cymbiote**
 
-- 🌱 I’m currently learning **Amazon Aurora PostgreSQL**
+- 🌱 I’m currently learning **Azure CosmosDB**
 
 - 💬 Ask me about **LIFE !!**
 
