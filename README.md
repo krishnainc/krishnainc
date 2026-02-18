@@ -3,14 +3,14 @@
 </p>
 
 <p align="center">
-  <b>// no bio</b>
+  <b>zzz...</b>
 </p>
 
 ```bash
-> building
-> learning
-> scaling
-> repeating
+> no witnesses
+> no noise
+> just commits
+> and consequences
 ```
 
 <p align="center">
