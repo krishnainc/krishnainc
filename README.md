@@ -11,5 +11,6 @@
 > learning
 > scaling
 > repeating
+```
 
 <p align="center"> <img src="https://raw.githubusercontent.com/krishnainc/krishnainc/output/github-contribution-grid-snake-dark.svg" /> </p> ```
