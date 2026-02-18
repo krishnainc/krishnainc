@@ -11,3 +11,11 @@
 > focus: distributed systems • cloud • data
 > currently learning: Azure Cosmos DB
 > contact: krishnarrammurugan2012@gmail.com
+```
+---
+
+## entropy
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/krishnainc/krishnainc/output/github-contribution-grid-snake-dark.svg" />
+</p>
